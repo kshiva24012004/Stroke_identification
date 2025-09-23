@@ -1,0 +1,16 @@
+# Ignore datasets
+*.csv
+*.xlsx
+/data/
+
+# Ignore model weights
+*.h5
+*.pt
+*.pth
+
+# Ignore logs
+*.log
+/logs/
+
+# Ignore other large files
+*.zip
