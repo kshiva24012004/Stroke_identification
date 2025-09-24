@@ -2,6 +2,7 @@
 *.csv
 *.xlsx
 /data/
+/static/train/
 
 # Ignore model weights
 *.h5
